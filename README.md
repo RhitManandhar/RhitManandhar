@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RhitManandhar
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 Self studying
 - 💞️ I’m looking to collaborate on new projects and internships in Software Development
 - 📫 How to reach me- manandharhit@gmail.com or https://www.linkedin.com/in/rhit-manandhar-701536172/ is my linkedIn profile
 
